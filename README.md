@@ -1,6 +1,5 @@
 # US Unemployment Dashboard
 
-#### Presentation:https://docs.google.com/presentation/d/1eOtrxH34Pn-dGqCifs5KrQhsSAenC6q421O3bR2Po-Y/edit?usp=sharing
 #### App Link: http://datavizards-unemployment.herokuapp.com/
 
 ## Team
@@ -36,6 +35,7 @@ Source: https://www.bls.gov/cps/cps_htgm.htm
 ## Sketch of Final Design (3-pages)
 ![2-sketch](Images/sketch.png)
 
-## GitHub Repository
-https://github.com/csantill/Project_2-DataVizards
+## [GitHub Repository](https://github.com/csantill/Project_2-DataVizards)
+
+## [Presentation:](https://docs.google.com/presentation/d/1eOtrxH34Pn-dGqCifs5KrQhsSAenC6q421O3bR2Po-Y/edit?usp=sharing)
 
