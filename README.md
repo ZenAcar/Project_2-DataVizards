@@ -37,5 +37,5 @@ Source: https://www.bls.gov/cps/cps_htgm.htm
 
 ## [GitHub Repository](https://github.com/csantill/Project_2-DataVizards)
 
-## [Presentation:](https://docs.google.com/presentation/d/1eOtrxH34Pn-dGqCifs5KrQhsSAenC6q421O3bR2Po-Y/edit?usp=sharing)
+## [Presentation](https://docs.google.com/presentation/d/1eOtrxH34Pn-dGqCifs5KrQhsSAenC6q421O3bR2Po-Y/edit?usp=sharing)
 
